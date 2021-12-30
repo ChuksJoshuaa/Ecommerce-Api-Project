@@ -97,7 +97,7 @@ DATABASES = {
         'NAME': 'storefront',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'boniface123'
+        'PASSWORD': os.environ.get('PASSWORD')
     }
 }
 

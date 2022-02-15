@@ -70,7 +70,7 @@ username="username" password="password"
 
 ```
 
-after that, we get the token. Something like this.
+after that, we get the token. Something like this..
 
 ```
 {

@@ -79,7 +79,7 @@ after that, we get the token. Something like this....
 }
 ```
 
-We got two tokens, the access token will be used to authenticate all the requests we need to make, this access token will expire after a day..
+We got two tokens, the access token will be used to authenticate all the requests we need to make, this access token will expire after a day...
 
 `
 The API has some restrictions:
